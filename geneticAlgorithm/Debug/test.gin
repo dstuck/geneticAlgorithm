@@ -1,0 +1,12 @@
+$params
+   simType           uniwalker
+   numSpecimen       12
+   mazeSize          9
+   mazeRange         20
+   mazeSeed          -10
+   muteRate          3
+   crossRate         0.2
+   selectionPressure 20
+   maxStep           1000
+   writeFreq         1
+$end
